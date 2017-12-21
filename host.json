@@ -1,14 +1,4 @@
 {
-  "logger": {
-    "categoryFilter": {
-      "defaultLevel": "Information",
-      "categoryLevels": {
-        "Host.Results": "Error",
-        "Function": "Error",
-        "Host.Aggregator": "Information"
-      }
-    }
-  }, 
   "functionTimeout": "00:05:00",
   "tracing": {
     "consoleLevel": "verbose",
